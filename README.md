@@ -2,6 +2,9 @@
 
 This project is a web scraping tool designed to collect the latest news and updates about the popular game Valorant from targeted websites. The tool extracts relevant data, such as headlines, summaries, publication dates, and associated images, and stores the information in a structured CSV file.
 
+## Demo Video 
+This is the Youtube video link to my Project : [https://youtu.be/Svoe94IImpQ?si=G8llcb32bue6nEMg]
+
 ## Features
 1) Extracts the latest news headlines, summaries, images, and timestamps from Valorant-related news sections.
 2) Saves the scraped data in a CSV format for easy analysis and usage.
